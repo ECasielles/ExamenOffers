@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ExamenECasielles</string>
+    <string name="edt_hint_name">Nombre</string>
+    <string name="edt_hint_shop">Tienda</string>
+    <string name="edt_hint_date">Fecha</string>
+    <string name="error_empty_field">No se admiten campos vacíos</string>
+    <string name="action_filter_unimportant">Ver no importantes</string>
+    <string name="action_filter_normal">Ver poco importantes</string>
+    <string name="action_filter_important">Ver importantes</string>
+    <string name="error_offer_exists">Ya existe esa oferta</string>
+    <string-array name="spn_type">
+        <item>Hogar</item>
+        <item>Electrónica</item>
+        <item>Deporte</item>
+    </string-array>
+    <string-array name="spn_importance">
+        <item>No importante</item>
+        <item>Poco importante</item>
+        <item>Muy importante</item>
+    </string-array>
+</resources>
